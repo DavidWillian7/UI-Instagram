@@ -1,6 +1,6 @@
-<img src="imagen/tela.png" alt="página final do instagram">
-
 # UI-Instagram
+
+<img src="imagen/tela.png" alt="página final do instagram">
 
 Colocando a mão na massa no primeiro desafio da DIO, criando minha página de login do instagram.
 
